@@ -86,6 +86,9 @@ padding: 24px;
 
 #profile img {
     width: 112px;
+    height: 111px;
+    border-radius: 100%;
+    border: 1px solid;
 }
 
 #profile p {
